@@ -1,0 +1,10 @@
+node_modules
+package*.json
+backups
+/commands/custom_commands.json
+/logs
+email.json
+refresh_token.js
+token.json
+gmail.js
+/app/config.json
